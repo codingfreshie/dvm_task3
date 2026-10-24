@@ -216,3 +216,6 @@ window.addEventListener("scroll", function(){
    image3.style.top = position*-0.12 +"px";
    // h1.style.top = position*0.12 + "px";
 })
+function printPage() {
+    window.print();
+}
